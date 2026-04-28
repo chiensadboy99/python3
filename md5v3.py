@@ -15,7 +15,7 @@ import asyncio
 # ==============================================
 # CẤU HÌNH HỆ THỐNG
 # ==============================================
-TOKEN = os.getenv("8264938566:AAFWV0xp8nlTPbQw08skFD5I1srdNe_SRjw")
+TOKEN = "8264938566:AAFWV0xp8nlTPbQ08skFD5I1srdNe_SRjw"
 if not TOKEN:     raise ValueError("❌ BOT_TOKEN chưa được thiết lập.")
 ADMIN_ID = 7071414779
 LIEN_HE_HO_TRO = "@NguyenTung1920"
